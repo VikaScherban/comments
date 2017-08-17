@@ -1,0 +1,31 @@
+{
+  "name": "gulp-project",
+  "version": "0.1.0",
+  "comments": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-connect": "^5.0.0",
+    "gulp-install": "^0.6.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-install": "^0.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VikaScherban/comments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VikaScherban/comments/issues"
+  },
+  "homepage": "https://github.com/VikaScherban/comments#readme"
+}

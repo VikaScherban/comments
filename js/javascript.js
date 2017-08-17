@@ -9,9 +9,9 @@ function AddComment() {
     var div = document.createElement('div');
     div.className = "comment";
 
-    div.innerHTML = "<img src=\"images/ava.jpg\" class=\"com-avatar\"><div class=\"user-text\"><div class=\"user-name\">Mike Taylor</div><div class=\"user-comment\"></div> " +
-    "</div> <div class=\"comment-date\"> <div class=\"date-block\"> <img src=\"images/clock.png\"> <span class=\"date\"></span><span class=\"time\"></span> </div> " +
-    "<div class=\"like-block\"><img src=\"images/like.png\"><span class=\"likes\">12</span> </div></div>";
+    div.innerHTML = "<img src=\"../images/ava.jpg\" class=\"com-avatar\"><div class=\"user-text\"><div class=\"user-name\">Mike Taylor</div><div class=\"user-comment\"></div> " +
+    "</div> <div class=\"comment-date\"> <div class=\"date-block\"> <img src=\"../images/clock.png\"> <span class=\"date\"></span><span class=\"time\"></span> </div> " +
+    "<div class=\"like-block\"><img src=\"../images/like.png\"><span class=\"likes\">12</span> </div></div>";
 
 
     var date = new Date();
